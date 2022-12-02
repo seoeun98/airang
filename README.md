@@ -7,7 +7,7 @@
 ## ✨ Overview
 아이의 상상력을 최대로! 아이랑 함께하는 AR 동화책
 
-## 👀 [아이랑(AiRang) 서비스 화면](https://lab.ssafy.com/s07-final/S07P31B305/-/blob/develop/exec/airang_4_%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
+## 👀 [아이랑(AiRang) 서비스 화면](https://github.com/seoeun98/airang/blob/develop/exec/airang_4_%EC%8B%9C%EC%97%B0%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.md)
 
 
 ## ✨ 주요 기능
